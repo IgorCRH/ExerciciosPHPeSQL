@@ -19,3 +19,4 @@ listarmedico.php e listarpaciente.php - Lista, respectivamente, médicos e pacie
 <hr>
 alterapaciente.php - Altera as informações de um paciente existente na base de dados da clínica
 <hr>
+conecta.php - Arquivo de conexão na base de dados
