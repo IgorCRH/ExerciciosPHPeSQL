@@ -1,5 +1,5 @@
 -- MySQL 5.6
--- 
+-- http://sqlfiddle.com/#!9/980428/1
  
 -- Comandos DDL
 CREATE TABLE Fornecedor (
