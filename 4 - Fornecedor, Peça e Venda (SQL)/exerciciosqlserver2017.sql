@@ -1,4 +1,5 @@
-SQL Server 2017
+-- SQL Server 2017
+-- http://sqlfiddle.com/#!18/853a7/9
 -- Comandos DDL
 CREATE TABLE Fornecedor (
   CodForn INT IDENTITY(1,1) PRIMARY KEY,
